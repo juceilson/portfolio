@@ -1,17 +1,21 @@
 const tintasExternas = [
-    ["img/coral-master-galao-1.png", "tinta master"],
-    ["img/exmalte.png", "tinta master"]
+    ["img/coral-master-galao-1.png", "Master"],
+    ["img/exmalte.png", "Esmalte sintetico "],
+    ["img/Coral-Sol-e-Chuva.png", "Sol e chuva "],
+    
 ]  
 
 const tintasInternas = [
-    ["img/tinta_interna_acrilica.png", "tinta mais desempenho"],
-    ["img/tinta_interna_latex.png", "tinta economica"]
+    ["img/tinta_interna_acrilica.png", "Mais desempenho"],
+    ["img/tinta_interna_latex.png", "Tinta economica"], 
+    ["img/Coral-Super-Lavavel.png", "Super lavavel"],
 ] 
 
 const tintasEfeitos = [
-    ["img/efeito_louza.png", "tinta louza"],
-    ["img/efeito_marmore.png", "tinta marmore"],
-    ["img/efeito_velvet.png", "tinta velvet"],
+    ["img/efeito_louza.png", "Efeito louza"],
+    ["img/efeito_marmore.png", "Marmore"],
+    ["img/efeito_velvet.png", "Velvet"],
+    ["img/cimento_queimado.png","Cimento queimado "]
 ] 
 
 window.addEventListener("load",function(){
